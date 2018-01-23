@@ -1,0 +1,14 @@
+{
+  "name": "codaemons",
+  "version": "1.0.0",
+  "description": "Adventure game to learn the basics of programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rory Dahl",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
